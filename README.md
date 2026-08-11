@@ -3,7 +3,7 @@
   <h1>uwatcha's GitHub Profile</h1>
   <p>公立はこだて未来大学 システム情報科学研究科 高度ICT領域 1年生（伊藤恵研究室所属）</p>
   <p>モバイルアプリ開発、ゲーム開発、新規デバイス実装、Webアプリ開発、学術研究 等</p>
-  <p><sub><i>Last Updated: 2026.08.09</i></sub></p>
+  <p><sub><i>Last Updated: 2026.08.011</i></sub></p>
 </div>
 
 ---
@@ -41,6 +41,12 @@
 * **💻 就業型インターンシップ - Webアプリケーション開発 (2025~)**
   実務環境において、Webアプリケーションのデバッグ、UI/UX改善、Dockerを活用した環境構築、新機能追加実装など、実践的なシステム開発運用を担当。
   * **使用技術**: `React` `Python` `Docker`
+
+* **🏆 学内ハッカソンへの挑戦**
+  短期間でのアジャイル開発やプロトタイピングの経験を深めるため、複数の学内ハッカソンに参加。チームでの役割に応じた柔軟な実装を行いました。
+  * **学内ハッカソン FISH (2024)**: Flutterでのモバイルアプリ実装を担当
+  * **学内ハッカソン P2HACKS (2024)**: Flutterを用いたシステム実装を担当 ([リポジトリ](https://github.com/p2hacks2024/post-04))
+  * **学内ハッカソン P2HACKS (2023)**: FigmaでのUIデザイン策定およびHTML/CSSを用いたデザイン実装を担当 ([リポジトリ](https://github.com/p2hacks2023/pre-03))
 
 * **🎮 Unreal Engine / C++ ゲーム開発学習 (2026~)**
   コンシューマゲーム開発の知識・技術習得を目的として、Unreal EngineおよびC++を用いたゲームプログラミングの学習・試作に取り組んでいます。
@@ -94,5 +100,5 @@
 ---
 
 <div align="center">
-  <sub>Last updated on August 9, 2026</sub>
+  <sub>Last updated on August 11, 2026</sub>
 </div>
