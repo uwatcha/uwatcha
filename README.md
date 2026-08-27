@@ -3,7 +3,7 @@
   <h1>uwatcha's GitHub Profile</h1>
   <p>公立はこだて未来大学 システム情報科学研究科 高度ICT領域 1年生（伊藤恵研究室所属）</p>
   <p>モバイルアプリ開発、ゲーム開発、新規デバイス実装、Webアプリ開発、学術研究 等</p>
-  <p><sub><i>Last Updated: 2026.08.011</i></sub></p>
+  <p><sub><i>Last Updated: 2026.08.27</i></sub></p>
 </div>
 
 ---
@@ -22,6 +22,7 @@
 
 #### 🎮 クリエイティブAI (AIを用いたゲーム開発) - Unity実装担当 (2024)
 大学の *プロジェクト学習* にて、制作過程にAIを活用するゲーム開発チームのUnity実装を担当。効率的なプログラミング手法やチーム開発を習得。
+この成果物は、[2024年度プロジェクト学習成果発表会@東京](https://www.fun.ac.jp/event/26322/)と、[おもちゃ函](https://www.fun.ac.jp/event/26322/)にて出展した。
 
 * **使用技術**: `Unity` `C#`
 * **リポジトリ**: [CreativeAI2024/CreativeAI2024](https://github.com/CreativeAI2024/CreativeAI2024)
@@ -100,5 +101,5 @@
 ---
 
 <div align="center">
-  <sub>Last updated on August 11, 2026</sub>
+  <sub>Last updated on August 27, 2026</sub>
 </div>
