@@ -66,7 +66,7 @@
   自分の生活に合わせた家計簿アプリを、AIコーディングエージェントの Claude Code を使って開発。  
   収支や口座の記録に加えて、カードや銀行のメールからの自動記録、レシートや決済画面の写真の AI 読み取り、家計についての AI 相談、ホーム画面のウィジェットなどを備えています。Android と Web（PC）で使えます。
   * **使用技術**: `Expo` `React Native` `TypeScript` `Supabase` `Claude API` `Claude Code`
-  * **リポジトリ**: 非公開
+  * **リポジトリ**: [uwatcha/Kakeibo](https://github.com/uwatcha/Kakeibo)
 
 #### 🎵 MusicLabelAutoAssigner - 音楽ライブラリの自動ラベル付けシステム (2026)
   Mac のミュージック（旧 iTunes）の曲に、Claude API の判断でラベル（ジャンルや「歌」「アニメ」など）を自動で付ける AppleScript を、Claude Code を使って開発。  
