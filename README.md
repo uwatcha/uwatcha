@@ -3,7 +3,7 @@
   <h1>uwatcha's GitHub Profile</h1>
   <p>公立はこだて未来大学 システム情報科学研究科 高度ICT領域 1年生（伊藤恵研究室所属）</p>
   <p>モバイルアプリ開発、ゲーム開発、新規デバイス実装、Webアプリ開発、学術研究 等</p>
-  <p><sub><i>Last Updated: 2026.08.27</i></sub></p>
+  <p><sub><i>Last Updated: 2026.11.04</i></sub></p>
 </div>
 
 ---
@@ -49,9 +49,21 @@
   * **学内ハッカソン P2HACKS (2024)**: Flutterを用いたシステム実装を担当 ([リポジトリ](https://github.com/p2hacks2024/post-04))
   * **学内ハッカソン P2HACKS (2023)**: FigmaでのUIデザイン策定およびHTML/CSSを用いたデザイン実装を担当 ([リポジトリ](https://github.com/p2hacks2023/pre-03))
 
-* **🎮 Unreal Engine / C++ ゲーム開発学習 (2026~)**
-  コンシューマゲーム開発の知識・技術習得を目的として、Unreal EngineおよびC++を用いたゲームプログラミングの学習・試作に取り組んでいます。
-  * **使用技術**: `Unreal Engine` `C++`
+* **🎮 BallController - 鉄球操作3Dゲーム制作 (2026~)**
+  コンシューマゲーム開発の知識・技術習得を目的として、Unreal EngineおよびC++を用いたゲームプログラミングの学習・試作に取り組んでいます。重量感のある鉄球をマウスで直感的に操作するアクションゲームです。
+  * **使用技術**: `Unreal Engine 5` `C++`
+  * **リポジトリ**: [uwatcha/BallController](https://github.com/uwatcha/BallController)
+
+* **🎮 CoinRoguelike - ローグライクゲーム制作 (2026)**
+  コイントスで戦うターン制ローグライクゲームをUnityで制作。[unity1week「うら」](https://unityroom.com/unity1weeks/101) に応募。表と裏の2つの「面」を組み合わせてコインを作り、コイントスで出た面の効果（攻撃・回復など）で敵と戦います。片面ごとの「重さ」で、表裏の出やすさが変わるため、どの面を組み合わせるかが戦略になります。敵を倒すと新しい面が手に入り、洞窟を進むほど敵が強くなります。
+  * **使用技術**: `Unity` `C#`
+  * **リポジトリ**: [uwatcha/CoinRoguelike](https://github.com/uwatcha/CoinRoguelike)
+  * **成果物 (Unityroom)**: [プレイする](https://unityroom.com/games/thecoinwizard)
+
+* **🎮 BREAKDOWN - ブロック崩し×シューティングゲーム制作 (2022)**
+  授業の課題で制作した、ブロック崩しにレトロなシューティングゲームの要素を取り入れたオリジナルゲーム。ボールとショットで敵を倒し、敵の弾を避けながらステージを進みます。ショットは直進するため当てやすいが、攻撃力が低い。ボールは当てにくい分攻撃力が高い。2つを使い分けながら攻略するゲームです。ステージによって、敵が迫ってくることがあります。授業の内容に加えてオブジェクト指向も取り入れて実装した、初めてのゲーム作品です。
+  * **使用技術**: `Processing`
+  * **リポジトリ**: [uwatcha/BREAKDOWN](https://github.com/uwatcha/BREAKDOWN)
 
 * **🧠 スマッシュコーチ (対戦ゲーム の コーチング支援システム) (2025)**
   学部時代の卒業研究として開発した「大乱闘スマッシュブラザーズ SP」のプレイ分析・指導支援システムを構想した。本研究内では、ゲームプレイデータの視覚的なグラフ化および被験者への提示手法を評価検証しました。実証実験により、従来の練習手法との効能の違いを実証しました。
@@ -101,5 +113,5 @@
 ---
 
 <div align="center">
-  <sub>Last updated on August 27, 2026</sub>
+  <sub>Last updated on November 4, 2026</sub>
 </div>
