@@ -49,7 +49,7 @@
 * **🎮 CoinRoguelike - ローグライクゲーム制作 (2026)**
   コイントスで戦うターン制ローグライクゲームをUnityで制作。[unity1week「うら」](https://unityroom.com/unity1weeks/101) に応募。表と裏の2つの「面」を組み合わせてコインを作り、コイントスで出た面の効果（攻撃・回復など）で敵と戦います。片面ごとの「重さ」で、表裏の出やすさが変わるため、どの面を組み合わせるかが戦略になります。敵を倒すと新しい面が手に入り、洞窟を進むほど敵が強くなります。
   * **使用技術**: `Unity` `C#`
-  * **リポジトリ**: [uwatcha/CoinRoguelike](https://github.com/DiverWorlds/CoinRoguelike)
+  * **リポジトリ**: [DiverWorlds/CoinRoguelike](https://github.com/DiverWorlds/CoinRoguelike)
   * **成果物 (Unityroom)**: [プレイする](https://unityroom.com/games/thecoinwizard)
 
 * **🎮 BREAKDOWN - ブロック崩し×シューティングゲーム制作 (2022)**
