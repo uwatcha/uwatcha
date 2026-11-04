@@ -8,11 +8,11 @@
 
 ---
 
-## 🚀 Projects & Contributions
+# 🚀 Projects & Contributions
 
-### ✨ **Featured Projects**
+## ✨ **Featured Projects**
 
-#### 📱 はこんだて (モバイルアプリケーション開発プロジェクト) - 開発/リーダー (2022~)
+### 📱 はこんだて (モバイルアプリケーション開発プロジェクト) - 開発/リーダー (2022~)
 所属大学の活動 [高度ICT演習](https://www.fun.ac.jp/about/advanced-ict/) の一環で、函館市内の小中学校の給食の献立を確認できるモバイルアプリケーションの開発に携わっています（2022~）。2024~2025年度の2年間はプロジェクトリーダーとして、企画から実装、外部組織との連携、プロジェクトマネジメントまで幅広く主導しました。
 
 * **使用技術**: `Flutter` `Riverpod` `Firebase`
@@ -20,7 +20,7 @@
 * **App Store**: [iOS版](https://apps.apple.com/jp/app/%E3%81%AF%E3%81%93%E3%82%93%E3%81%A0%E3%81%A6-ver-2/id6590610991)
 * **Google Play**: [Android版](https://play.google.com/store/apps/details?id=org.hakondate)
 
-#### 🎮 クリエイティブAI (AIを用いたゲーム開発) - Unity実装担当 (2024)
+### 🎮 クリエイティブAI (AIを用いたゲーム開発) - Unity実装担当 (2024)
 大学の *プロジェクト学習* にて、制作過程にAIを活用するゲーム開発チームのUnity実装を担当。効率的なプログラミング手法やチーム開発を習得。
 この成果物は、[2024年度プロジェクト学習成果発表会@東京](https://www.fun.ac.jp/event/26322/)と、[おもちゃ函](https://www.fun.ac.jp/event/26322/)にて出展した。
 
@@ -28,7 +28,7 @@
 * **リポジトリ**: [CreativeAI2024/CreativeAI2024](https://github.com/CreativeAI2024/CreativeAI2024)
 * **成果物 (Unityroom)**: [プレイする](https://unityroom.com/games/creativeai2024)
 
-#### 🎓 PBLにおける初心者の心理的安全性低下要因と対処法 (研究プロジェクト) (2026~)
+### 🎓 PBLにおける初心者の心理的安全性低下要因と対処法 (研究プロジェクト) (2026~)
 大学独自のPBLである[高度ICT演習](https://www.fun.ac.jp/about/advanced-ict/)において、開発初心者が直面する質問の心理的ハードルや課題を分析し、支援施策を模索する研究。本研究の成果は、他のPBLや大学の講義において心理的安全性を高める手法として有効である可能性がある。
 
 * **研究内容**:
@@ -37,9 +37,9 @@
 
 ---
 
-### 📚 **Other Notable Projects & Activities**
+## 📚 **Other Notable Projects & Activities**
 
-#### 🎮 Game Works
+### 🎮 Game Works
 
 * **🎮 BallController - 鉄球操作3Dゲーム制作 (2026~)**
   コンシューマゲーム開発の知識・技術習得を目的として、Unreal EngineおよびC++を用いたゲームプログラミングの学習・試作に取り組んでいます。重量感のある鉄球をマウスで直感的に操作するアクションゲームです。
@@ -57,7 +57,7 @@
   * **使用技術**: `Processing`
   * **リポジトリ**: [uwatcha/BREAKDOWN](https://github.com/uwatcha/BREAKDOWN)
 
-#### 🤖 Built with AI (Claude Code)
+### 🤖 Built with AI (Claude Code)
 
 * **💰 Kakeibo - 個人用家計簿アプリ (2026~)**
   自分の生活に合わせた家計簿アプリを、AIコーディングエージェントの Claude Code を使って開発。収支や口座の記録に加えて、カードや銀行のメールからの自動記録、レシートや決済画面の写真の AI 読み取り、家計についての AI 相談、ホーム画面のウィジェットなどを備えています。Android と Web（PC）で使えます。
@@ -69,7 +69,7 @@
   * **使用技術**: `AppleScript` `Claude API` `Claude Code`
   * **リポジトリ**: [uwatcha/MusicLabelAutoAssigner](https://github.com/uwatcha/MusicLabelAutoAssigner)
 
-#### 💼 Others
+### 💼 Others
 
 * **💻 就業型インターンシップ - Webアプリケーション開発 (2025~)**
   実務環境において、Webアプリケーションのデバッグ、UI/UX改善、Dockerを活用した環境構築、新機能追加実装など、実践的なシステム開発運用を担当。
@@ -111,7 +111,7 @@
 
 ---
 
-## 🛠️ My Skillset
+# 🛠️ My Skillset
 
 * **プログラミング言語**: C#, C++, Dart, JavaScript / TypeScript (React), Python, Java
 * **フレームワーク/ライブラリ**: React, Flutter, Riverpod, Unity, Processing, Unreal Engine
@@ -121,7 +121,7 @@
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uwatcha&theme=dark" alt="GitHub Profile Details" />
