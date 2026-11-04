@@ -57,6 +57,18 @@
   * **使用技術**: `Processing`
   * **リポジトリ**: [uwatcha/BREAKDOWN](https://github.com/uwatcha/BREAKDOWN)
 
+#### 🤖 Built with AI (Claude Code)
+
+* **💰 Kakeibo - 個人用家計簿アプリ (2026~)**
+  自分の生活に合わせた家計簿アプリを、AIコーディングエージェントの Claude Code を使って開発。収支や口座の記録に加えて、カードや銀行のメールからの自動記録、レシートや決済画面の写真の AI 読み取り、家計についての AI 相談、ホーム画面のウィジェットなどを備えています。Android と Web（PC）で使えます。
+  * **使用技術**: `Expo` `React Native` `TypeScript` `Supabase` `Claude API` `Claude Code`
+  * **リポジトリ**: 非公開
+
+* **🎵 MusicLabelAutoAssigner - 音楽ライブラリの自動ラベル付けシステム (2026)**
+  Mac のミュージック（旧 iTunes）の曲に、Claude API の判断でラベル（ジャンルや「歌」「アニメ」など）を自動で付ける AppleScript を、Claude Code を使って開発。決まりで付けるラベル → 検索なしの安いモデルでの判断 → 自信のない曲だけ Web 検索で調べる、の3段階で費用を抑えています。定期実行で新しく足した曲にも自動で付き、手で直したラベルは書き換えません。
+  * **使用技術**: `AppleScript` `Claude API` `Claude Code`
+  * **リポジトリ**: [uwatcha/MusicLabelAutoAssigner](https://github.com/uwatcha/MusicLabelAutoAssigner)
+
 #### 💼 Others
 
 * **💻 就業型インターンシップ - Webアプリケーション開発 (2025~)**
